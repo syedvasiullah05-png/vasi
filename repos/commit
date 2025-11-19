@@ -1,0 +1,7 @@
+git init            # Initialize a Git repository
+git add file.txt     # Stage changes for commit
+git commit -m "message"   # Save changes
+git branch feature-branch  # Create a new branch
+git checkout feature-branch # Switch branch
+git merge master      # Merge changes from another branch
+git log               # 
